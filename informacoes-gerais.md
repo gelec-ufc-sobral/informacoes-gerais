@@ -1,6 +1,6 @@
 # Grupo de Estudos em Linux da Engenharia da Computação
 
-![logo](https://github.com/informacoes-gerais/src/imagens/logo.png)
+![logo](https://github.com/gelec-ufc-sobral/informacoes-gerais/tree/master/src/imagens/logo.png)
 
 ### Quem Somos
 O GELEC (Grupo de Estudos de Linux da Engenharia da Computação) é um projeto de extensão (não restrito somente a extensão, 
@@ -15,11 +15,7 @@ além de prover ferramentas que auxiliem a difusão de softwares __opensource__.
 
 ### Nossos Projetos
  
-1. Remasterização para uso acadêmico - status: não iniciado
-2. Repositório de softwares - status: não iniciado
-3. Palestras e Minicursos -status: em andamento
-4. Datas comemorativas - status: em andamento
-5. Reuniões para estudo - status: em andamento
+__em andamento__
 
  
 ### Nossos Encontros
